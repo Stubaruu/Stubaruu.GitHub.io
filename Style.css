@@ -1,7 +1,10 @@
 p {
-    color: red;
+    color: #275f86;
 }
 
 a {
     color: #275f86;
 }
+body {
+    padding-top: 3.5rem;
+  }
